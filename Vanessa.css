@@ -1,3 +1,19 @@
 p {
-    color: red;
+    color: green;
 }
+
+h1 {
+    color: maroon;
+}
+
+h2{
+    color: purple;
+}
+
+.title {
+    color: teal;
+  }
+  
+  .uppercase {
+    text-transform: uppercase;
+  }
